@@ -1,0 +1,1 @@
+import{_ as e}from"./index.1652682817565.js";import{k as r,j as o}from"./vue.1652682817565.js";const t={name:"Message"};function a(n,s,c,p,_,f){return o(),r("div",null,"\u5F00\u53D1\u4E2D\u3002\u3002\u3002")}var d=e(t,[["render",a]]);export{d as default};
