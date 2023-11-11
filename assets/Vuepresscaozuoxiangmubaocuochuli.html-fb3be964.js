@@ -1,0 +1,5 @@
+import{_ as e,o as n,c as s,a as o}from"./app-6d65bf83.js";const a={},c=o(`<h2 id="x-error-could-not-read-from-file-c-xxx-vue-dist-vue-runtime-esm-bundler-js" tabindex="-1"><a class="header-anchor" href="#x-error-could-not-read-from-file-c-xxx-vue-dist-vue-runtime-esm-bundler-js" aria-hidden="true">#</a> X [ERROR] Could not read from file: C:\\XXX\\vue\\dist\\vue.runtime.esm-bundler.js</h2><blockquote><p>安装<code>node_modules</code>时先不要使用<code>cnpm</code>，使用<code>npm</code>生成<code>package-lock.json</code>文件即可运行</p></blockquote><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token comment"># npm √ , cnpm ×</span>
+<span class="token function">npm</span> <span class="token function">install</span>
+
+<span class="token function">npm</span> run dev
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),d=[c];function i(r,u){return n(),s("div",null,d)}const t=e(a,[["render",i],["__file","Vuepresscaozuoxiangmubaocuochuli.html.vue"]]);export{t as default};

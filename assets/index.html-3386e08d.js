@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a177dc7c","path":"/tags/xunishebei/1/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};
