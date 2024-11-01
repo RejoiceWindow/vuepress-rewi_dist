@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app-ClYSGma6.js";const r={};function n(o,c){return e(),a("div")}const i=t(r,[["render",n],["__file","1.html.vue"]]),l=JSON.parse('{"path":"/tags/qianrushipingtai/1.html","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{i as comp,l as data};
