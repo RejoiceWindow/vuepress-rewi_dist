@@ -1,0 +1,1 @@
+import{_,o as n,c as s}from"./app-l_7TZh_x.js";const o=1,c={__name:"in",setup(r,{expose:t}){t();const e={get a(){return o}};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}},p={style:{width:"100px"}};function a(r,t,e,i,u,d){return n(),s("div",p,"vue preview")}const l=_(c,[["render",a],["__file","in.vue"]]);export{l as default};

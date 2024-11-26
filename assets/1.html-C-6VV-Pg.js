@@ -1,0 +1,1 @@
+import{_ as r}from"./1.html-B9hj9OAL.js";import"./app-l_7TZh_x.js";const a=JSON.parse('{"path":"/tags/Nginx/1.html","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{r as comp,a as data};
