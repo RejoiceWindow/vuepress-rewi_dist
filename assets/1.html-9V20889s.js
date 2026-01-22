@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./app-C5EA9484.js";const o={};function c(r,n){return e(),a("div")}const l=t(o,[["render",c]]),_=JSON.parse('{"path":"/tags/kaifacankao/1.html","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,_ as data};

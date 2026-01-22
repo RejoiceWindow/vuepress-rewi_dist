@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-C5EA9484.js";const r={};function o(c,l){return a(),e("div")}const s=t(r,[["render",o]]),i=JSON.parse('{"path":"/categories/virtual-platform/1.html","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{s as comp,i as data};

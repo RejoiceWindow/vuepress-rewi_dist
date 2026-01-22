@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-C5EA9484.js";const o={};function r(c,s){return a(),e("div")}const n=t(o,[["render",r]]),i=JSON.parse('{"path":"/categories/skill/1.html","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{n as comp,i as data};
